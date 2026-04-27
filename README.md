@@ -43,7 +43,10 @@ german-learning-app/
 * REST API
 
 ---
+## 📸 Screenshots
 
+![Home Screen](assets/home.png)
+![Quiz Screen](assets/quiz.png)
 ## ⚙️ Installation & Setup
 
 ### 1. Clone Repository
